@@ -1,5 +1,8 @@
 _repo: Theosophy-and-Life-s-Deeper-Problems-Being-the-Four-Convention-Lectures-Delivered-in-Bombay-a__55940
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55940-h/images/cover.jpg
 creator:
   author:
     agent_name: Besant, Annie
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1425
     wikipedia: http://en.wikipedia.org/wiki/Annie_Besant
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55940#Theosophy-and-Life-s-Deeper-Problems-Being-the-Four-Convention-Lectures-Delivered-in-Bombay-a_
 gutenberg_issued: '2017-11-12'
 gutenberg_type: Text
 identifiers:
